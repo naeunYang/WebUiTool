@@ -1,0 +1,50 @@
+[
+	{
+		"id": "1",
+        "usage": "",
+        "materialCode": "CT(R)-E000114",
+        "materialName": "FRP-82(적인)",
+        "qty": "3203",
+        "unit": "KG"
+	},
+	{
+		"id": "2",
+        "usage": "",
+        "materialCode": "CT(R)-E000001",
+        "materialName": "YD-128",
+        "qty": "16015",
+        "unit": "KG"
+	},
+	{
+		"id": "3",
+        "usage": "",
+        "materialCode": "CT(R)-E000034",
+        "materialName": "CPGE(PE412)",
+        "qty": "80075",
+        "unit": "KG"
+	},
+	{
+		"id": "4",
+        "usage": "",
+        "materialCode": "CT(R)-E000045",
+        "materialName": "BLACK TONER",
+        "qty": "9609",
+        "unit": "KG"
+	},
+	{
+		"id": "5",
+        "usage": "",
+        "materialCode": "CT(R)-E000001",
+        "materialName": "EF-120A",
+        "qty": "210.91755",
+        "unit": "KG"
+	},
+	{
+		"id": "6",
+        "usage": "",
+        "materialCode": "CT(R)-E000072",
+        "materialName": "OAF-900",
+        "qty": "0.48045",
+        "unit": "KG"
+	}
+]

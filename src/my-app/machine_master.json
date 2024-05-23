@@ -1,0 +1,146 @@
+[
+	{
+		"MC_CODE": "M01",
+		"MC_NAME": "교반1호기(2공장)"
+	},
+	{
+		"MC_CODE": "M02",
+		"MC_NAME": "교반2호기(2공장)"
+	},
+	{
+		"MC_CODE": "M03",
+		"MC_NAME": "교반3호기(2공장)"
+	},
+	{
+		"MC_CODE": "M04",
+		"MC_NAME": "교반4호기(2공장)"
+	},
+	{
+		"MC_CODE": "M05",
+		"MC_NAME": "3본롤밀(2공장)"
+	},
+	{
+		"MC_CODE": "M06",
+		"MC_NAME": "교반5호기(2공장)"
+	},
+	{
+		"MC_CODE": "M07",
+		"MC_NAME": "교반6호기(2공장)"
+	},
+	{
+		"MC_CODE": "M08",
+		"MC_NAME": "교반7호기(2공장)"
+	},
+	{
+		"MC_CODE": "M09",
+		"MC_NAME": "교반1호기(3공장)"
+	},
+	{
+		"MC_CODE": "M10",
+		"MC_NAME": "교반2호기(3공장)"
+	},
+	{
+		"MC_CODE": "MC_EDU_001",
+		"MC_NAME": "설비1"
+	},
+	{
+		"MC_CODE": "MC_EDU_003",
+		"MC_NAME": "설비3"
+	},
+	{
+		"MC_CODE": "MC_EDU_004",
+		"MC_NAME": "설비4"
+	},
+	{
+		"MC_CODE": "MC_EDU_007",
+		"MC_NAME": "양나은1"
+	},
+	{
+		"MC_CODE": "MC_EDU_008",
+		"MC_NAME": "양나은2"
+	},
+	{
+		"MC_CODE": "MC_EDU_009",
+		"MC_NAME": "양나은3"
+	},
+	{
+		"MC_CODE": "MC_EDU_010",
+		"MC_NAME": "양나은4"
+	},
+	{
+		"MC_CODE": "MC_EDU_011",
+		"MC_NAME": "양나은5"
+	},
+	{
+		"MC_CODE": "MC_EDU_012",
+		"MC_NAME": "이승현1"
+	},
+	{
+		"MC_CODE": "MC_EDU_013",
+		"MC_NAME": "이승현2"
+	},
+	{
+		"MC_CODE": "MC_EDU_014",
+		"MC_NAME": "조형택"
+	},
+	{
+		"MC_CODE": "MC_EDU_015",
+		"MC_NAME": "조형택5"
+	},
+	{
+		"MC_CODE": "MC_EDU_016",
+		"MC_NAME": "테스트"
+	},
+	{
+		"MC_CODE": "MC_EDU_017",
+		"MC_NAME": "양나은6"
+	},
+	{
+		"MC_CODE": "MC_EDU_018",
+		"MC_NAME": "테스트01_YNE"
+	},
+	{
+		"MC_CODE": "MC_EDU_019",
+		"MC_NAME": "테스트01_LSH"
+	},
+	{
+		"MC_CODE": "MC_EDU_020",
+		"MC_NAME": "테스트01_JHT"
+	},
+	{
+		"MC_CODE": "MC_EDU_021",
+		"MC_NAME": "테스트01_송춘근"
+	},
+	{
+		"MC_CODE": "MC_EDU_026",
+		"MC_NAME": "테스트03_LSH"
+	},
+	{
+		"MC_CODE": "MC_EDU_027",
+		"MC_NAME": "테스트03_YNE"
+	},
+	{
+		"MC_CODE": "MC_EDU_028",
+		"MC_NAME": "테스트03_SCG"
+	},
+	{
+		"MC_CODE": "MC_EDU_029",
+		"MC_NAME": "테스트03_JHT"
+	},
+	{
+		"MC_CODE": "MC_EDU_030",
+		"MC_NAME": "테스트04_LSH"
+	},
+	{
+		"MC_CODE": "MC_EDU_031",
+		"MC_NAME": "테스트04_YNE"
+	},
+	{
+		"MC_CODE": "MC_EDU_032",
+		"MC_NAME": "테스트04_SCG"
+	},
+	{
+		"MC_CODE": "MC_EDU_033",
+		"MC_NAME": "테스트04_JHT"
+	}
+]
